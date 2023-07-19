@@ -18,6 +18,9 @@ Este es el segundo de una lista de ejercicios a realizar en el trabajo practico 
 - Tener una PC
 - Tener internet
 - Tener git instalado
+- tener Node instalado
+- Tener Vite instalado
+- Tener React instalado
 
 > **IMPORTANTE**: Para que funcione el proyecto en su PC debe cumplir con todos los requisitos
 
