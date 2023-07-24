@@ -1,6 +1,6 @@
 # REACT TP2 ⚛️
 
-![compragamer](https://www.arsys.es/blog/file/uploads/2017/04/React.jpg)
+![React](https://www.arsys.es/blog/file/uploads/2017/04/React.jpg)
 
 Este es el segundo de una lista de ejercicios a realizar en el trabajo practico n°1 **React**
 
@@ -27,7 +27,7 @@ Este es el segundo de una lista de ejercicios a realizar en el trabajo practico 
 ## Como clonar el repositorio 💻
 
 ```bash
-git clone https://github.com/JonyPlo/React-useReducer.git
+git https://github.com/RDiarte/tp-2.git
 ```
 
 ## Como contribuir con el repositorio 🤝
